@@ -1,0 +1,8 @@
+* Requirements before course
+
+** Windows users will need to install CYGWIN
+
+but preferably they will switch to using mac/linux.
+
+** Install R and Rstudio (or other editor of their choice).
+
