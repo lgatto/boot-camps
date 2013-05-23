@@ -6,3 +6,18 @@ but preferably they will switch to using mac/linux.
 
 ** Install R and Rstudio (or other editor of their choice).
 
+
+
+* Ideal course?
+
+Can we take the recent python course @ manchester and s/python/R/
+updating where need be.
+
+Would like to add section on Reproducible Research, e.g. with
+Rmarkdown (easier to understand than latex).
+
+SJE interested in tackling the testing section.
+
+* Teching needs
+
+Can we find about 4 teachers to cover 1/2 day each?
