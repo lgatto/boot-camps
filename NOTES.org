@@ -16,7 +16,8 @@ updating where need be.
 Would like to add section on Reproducible Research, e.g. with
 Rmarkdown (easier to understand than latex).
 
-SJE interested in tackling the testing section.
+SJE interested in tackling the testing section.  Will need to explore
+the /testthat/ package.
 
 * Teching needs
 
