@@ -2,7 +2,7 @@
 
 ** Operating system
 - Preferred OS are unix based (mac/linux)
-- Windows users will need to install [Cygwin](http://www.cygwin.com/)
+- Windows users will need to install [[http://www.cygwin.com][Cygwin]].
 
 ** Software
 - Install R and Rstudio (or other editor of their choice).
@@ -12,15 +12,15 @@
 
 ** Topics
 *** shell
-As in [other boot-camps](http://software-carpentry.org/4_0/shell/).
+As in [[http://software-carpentry.org/4_0/shell/][other boot-camps]].
 
 *** Version control
-As in [other boot-camps](http://software-carpentry.org/4_0/vc/index.html). 
+As in [[http://software-carpentry.org/4_0/vc/index.html][other boot-camps]].
 The students will create their own repo on bitbucket (or github?).
 
 *** Automating task
-Using 'make', as in previous (boot-camps)[http://software-carpentry.org/4_0/make/index.html]. 
-Barry mentioned [scons](http://www.scons.org/) (python based), which is more modern. 
+Using 'make', as in previous [[http://software-carpentry.org/4_0/make/index.html][boot-camps]]. 
+Barry mentioned [[http://www.scons.org/][scons]] (python based), which is more modern. 
 But 'make' is so much used that it may be preferable. 
 
 *** Reproducible research
@@ -29,7 +29,7 @@ With Rmarkdown (easier to understand than latex). I believe Rstudio has some nic
 *** Testing 
 
 SJE interested in tackling the testing section.  Will need to explore
-the /testthat/ package. (There is also [RUnit](http://cran.r-project.org/web/packages/RUnit/index.html)).
+the /testthat/ package. (There is also [[http://cran.r-project.org/web/packages/RUnit/index.html][Runit]]).
 
 *** Programming with R
 Can we take the recent python course @ manchester and s/python/R/
