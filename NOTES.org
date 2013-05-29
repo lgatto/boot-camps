@@ -21,9 +21,9 @@ As in [[http://software-carpentry.org/4_0/vc/index.html][other boot-camps]].
 The students will create their own repo on bitbucket (or github?).
 
 *** Automating task
-Using 'make', as in previous [[http://software-carpentry.org/4_0/make/index.html][boot-camps]]. 
+Using =make=, as in previous [[http://software-carpentry.org/4_0/make/index.html][boot-camps]]. 
 Barry mentioned [[http://www.scons.org/][scons]] (python based), which is more modern. 
-But 'make' is so much used that it may be preferable. 
+But =make= is so much used that it may be preferable. 
 
 *** Reproducible research
 With Rmarkdown (easier to understand than latex). I believe Rstudio has some nice facilities for Rmarkdown. 
@@ -33,19 +33,19 @@ With Rmarkdown (easier to understand than latex). I believe Rstudio has some nic
 SJE interested in tackling the testing section.  Will need to explore
 the /testthat/ package. (There is also [[http://cran.r-project.org/web/packages/RUnit/index.html][Runit]]).
 
-If we do any package development (I doubt, though), 'testthat'/'Runit' 
+If we do any package development (I doubt, though), =testthat=/=Runit= 
 are cetainly important to illustrate. But what if we don't do any package stuff?
-'testthat' can still be used ('test_file', 'test_dir', ...) (not sure about 'Runit'), 
+=testthat= can still be used (=test_file=, =test_dir=, ...) (not sure about =Runit=), 
 but is it worth adding this additional complexity (new package, new functions, ...). 
 Is it not better to concentrate on more basic/essential aspects, like numerical analysis, 
-'identical', all.equal' (instead or 'all(x == y)'), ...
+=identical=, =all.equal= (instead or =all(x == y)=), ...
 
 
 *** Programming with R
 Can we take the recent python course @ manchester and s/python/R/
 updating where need be.
 
-Specific topics for R: 'apply' et al, graphics. Emphasis on data manipulation/analysis.
+Specific topics for R: =apply= et al, graphics. Emphasis on data manipulation/analysis.
 
 *** Other about programming
 Debugging and profiling. 
