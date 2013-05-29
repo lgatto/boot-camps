@@ -7,6 +7,8 @@
 ** Software
 - Install R and Rstudio (or other editor of their choice).
 - git
+- make
+- set up a github/bitbucket account? 
 
 * Ideal course?
 
@@ -31,11 +33,19 @@ With Rmarkdown (easier to understand than latex). I believe Rstudio has some nic
 SJE interested in tackling the testing section.  Will need to explore
 the /testthat/ package. (There is also [[http://cran.r-project.org/web/packages/RUnit/index.html][Runit]]).
 
+If we do any package development (I doubt, though), 'testthat'/'Runit' 
+are cetainly important to illustrate. But what if we don't do any package stuff?
+'testthat' can still be used ('test_file', 'test_dir', ...) (not sure about 'Runit'), 
+but is it worth adding this additional complexity (new package, new functions, ...). 
+Is it not better to concentrate on more basic/essential aspects, like numerical analysis, 
+'identical', all.equal' (instead or 'all(x == y)'), ...
+
+
 *** Programming with R
 Can we take the recent python course @ manchester and s/python/R/
 updating where need be.
 
-Specific topics for R: 'apply' et al, graphics
+Specific topics for R: 'apply' et al, graphics. Emphasis on data manipulation/analysis.
 
 *** Other about programming
 Debugging and profiling. 
@@ -46,7 +56,7 @@ Debugging and profiling.
 
 * Teching needs
 
-Can we find about 4 teachers to cover 1/2 day each?  Solicit help
-from the mailing list... 
+Can we find about 4 teachers to cover 1/2 day each?  
+Solicit help from the mailing list... 
 
 
