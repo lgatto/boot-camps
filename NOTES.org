@@ -54,6 +54,8 @@ Debugging and profiling.
 ** Other
 - the [[https://github.com/jennybc/swcR_duke][Duke R boot camp]]
 
+- [[https://github.com/UCL/ucl_software_carpentry/][UCL boot camp]]
+
 * Teching needs
 
 Can we find about 4 teachers to cover 1/2 day each?  
