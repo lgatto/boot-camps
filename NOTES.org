@@ -1,3 +1,8 @@
+
+*Goal*: to write a simple R package that is available on github and installable using devtools::install_github. 
+
+*Data*: the data to be used throughout the course and in the package could be the Cambridge weather data.
+
 * Requirements before course
 
 ** Operating system
