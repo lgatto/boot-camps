@@ -3,7 +3,9 @@
 
 *Data*: the data to be used throughout the course and in the package could be the Cambridge weather data.
 
-See recent email for organisation details and checklist.
+See recent emails for organisation details and checklist.
+
+
 
 * Requirements before course
 
